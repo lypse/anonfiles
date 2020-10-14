@@ -11,8 +11,8 @@ required arguments:
 	-f FILE			file(s) for uploading
 
 optional arguments:
-  -h, --help  show this help message and exit
-	-l          Log info into file
+	-h (or --help)  show this help message and exit
+	-l Log info into file
 ```
 
 ## Installing
