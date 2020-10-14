@@ -52,8 +52,7 @@ def output(response, doLog):
         logFile = open('log.txt', 'w+')
         
         logContent = (
-"""
-Filename: {}
+"""Filename: {}
 
 Full URL: {}
 Short URL: {}
